@@ -1,0 +1,17 @@
+{
+  "name": "shopiy-api",
+  "version": "1.0.0",
+  "description": "Shopify API project",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "axios": "^1.7.2",
+    "dotenv": "^10.0.0",
+    "express": "^4.19.2"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
